@@ -28,15 +28,6 @@
             <artifactId>json-path</artifactId>
             <scope>test</scope>
         </dependency>
-        
-<!-- se bem que só faz build correndo o "mvn tomcat7:run" ...hmm - TIRAR ISTO PQ DÀ ERRO AO CORRER WEB SERVER
-<dependency>	
-    <groupId>org.apache.tomcat.maven</groupId>
-    <artifactId>tomcat7-maven-plugin</artifactId>
-    <version>2.2</version>
-</dependency>
--->
-
 
     </dependencies>
 
