@@ -23,7 +23,7 @@ public class Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
-        System.out.println("hi =) and bye!! and nothing else HMMM v101s - going to shelf - master v112");
+        System.out.println("hi =) and bye!! and nothing else HMMM v101s - going to shelf - master v112 ok");
     }
 }
 
